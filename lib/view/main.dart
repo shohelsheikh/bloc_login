@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Chucky Norris',
+        title: 'Bloc Login With Refresh',
         home: LoginPage()); // define it once at root level.
   }
 }
