@@ -6,7 +6,7 @@ import 'dart:async';
 import 'CustomException.dart';
 
 class ApiProvider {
-  final String _baseUrl = "http://1.157.198.65:8080/";
+  final String _baseUrl = "http://1.157.198.65:8080/"; // replace the url here to your url
 
   Future<dynamic> get(String url) async {
     var responseJson;
