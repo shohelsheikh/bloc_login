@@ -1,7 +1,7 @@
-# block_refresh
+# bloc_login_api_with_refresh_page
 
 This project contains:
-Login using bloc pattern.
+Login API call using bloc pattern.
 You can see how to refresh your screen without using setState.
 
 
