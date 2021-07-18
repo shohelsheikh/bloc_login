@@ -1,6 +1,10 @@
 # block_refresh
 
-A new Flutter project.
+This project contains:
+Login using bloc pattern.
+You can see how to refresh your screen without using setState.
+
+
 
 ## Getting Started
 
