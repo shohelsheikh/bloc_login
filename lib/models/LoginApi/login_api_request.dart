@@ -1,7 +1,3 @@
-/// email_id : "harsh0750@gmail.com"
-/// password : "123456"
-/// access_token : ""
-
 class Login_api_request {
   String? _emailId;
   String? _password;

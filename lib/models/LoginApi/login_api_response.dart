@@ -1,8 +1,3 @@
-/// status : "1"
-/// msg : "Login successfully"
-/// user_id : "3"
-/// user_status : "PRO"
-
 class Login_api_response {
   String? _status;
   String? _msg;

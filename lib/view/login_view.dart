@@ -24,7 +24,7 @@ class _LoginPageState extends State<LoginPage> {
   @override
   void initState() {
     super.initState();
-    appBloc =          AppPropertiesBloc();
+    appBloc = AppPropertiesBloc();
     _loginbloc = LoginBloc();
   }
 
